@@ -1,2 +1,1 @@
-# .github
-To customise the first page of the github page.
+This repo is built to customise the first page of the Group's github.
